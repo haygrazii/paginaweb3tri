@@ -1,7 +1,8 @@
 body {
-    background: url('img/bg-desktop.webp');
-    font-family: Bai Jamjuree;
-}
+    body {
+        background: url('img/bg-desktop.webp');
+        font-family: Bai Jamjuree;
+    }
 
 #container {
     display: flex;
