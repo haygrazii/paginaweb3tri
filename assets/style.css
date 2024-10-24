@@ -25,6 +25,7 @@ body {
     background-color: tomato;
     text-align: left;
     padding: 0.5rem;
+    position: absolute;
 
 }
 
