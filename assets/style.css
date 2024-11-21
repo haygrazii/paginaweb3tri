@@ -4,7 +4,6 @@
     --card-back-color: #00F4BF;
 }
 
-
 body {
     background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
@@ -53,6 +52,22 @@ body {
     color: var(--card-back-color);
     font-weight: 700;
 }
+
+.cartao:hover .cartao__conteudo{
+    transform: rotateY(180deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 footer {
     background-color: black;
